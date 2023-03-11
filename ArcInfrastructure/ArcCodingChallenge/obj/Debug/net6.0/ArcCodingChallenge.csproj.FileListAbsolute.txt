@@ -1,0 +1,15 @@
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\bin\Debug\net6.0\ArcCodingChallenge.exe
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\bin\Debug\net6.0\ArcCodingChallenge.deps.json
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\bin\Debug\net6.0\ArcCodingChallenge.runtimeconfig.json
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\bin\Debug\net6.0\ArcCodingChallenge.dll
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\bin\Debug\net6.0\ArcCodingChallenge.pdb
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.csproj.AssemblyReference.cache
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.AssemblyInfo.cs
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.dll
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\refint\ArcCodingChallenge.dll
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.pdb
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ArcCodingChallenge.genruntimeconfig.cache
+C:\Users\majoseph\OneDrive - Capgemini\Desktop\ArcInfrastructure\ArcCodingChallenge\obj\Debug\net6.0\ref\ArcCodingChallenge.dll
